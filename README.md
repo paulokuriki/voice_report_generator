@@ -33,7 +33,7 @@ Set your OpenAI API key as an environment variable:
 ## Usage
 To use RAD-GPT, run the main Python script:
 
-`python rad_gpt.py`
+`python main.py`
 
 Begin by speaking into your microphone, describing the positive findings from a brain MRI scan.
 
